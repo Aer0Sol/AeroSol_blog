@@ -2,7 +2,7 @@
 date: 2025-09-14
 title: "Defcamp 2025 Crypto - Blueprint"
 toc: true
-description: "Writeup on a Defcamp'25 crypto challenge"
+description: "Writeup on a Defcamp'25 crypto challenge."
 ---
 
 
