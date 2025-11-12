@@ -17,4 +17,4 @@ showReadingTime: false
 showLastMod: false 
 ---
 
-Cryptographer at teambi0s, I also like low-level. I just love too many things man.
+Cryptographer at teambi0s, I also like low-level. I just love too many things man..
