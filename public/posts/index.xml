@@ -9,17 +9,7 @@
     <managingEditor>abelsjohn50@gmail.com (AeroSol)</managingEditor>
     <webMaster>abelsjohn50@gmail.com (AeroSol)</webMaster>
     <copyright>© 2025 AeroSol</copyright>
-    <lastBuildDate>Tue, 18 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/AeroSol_blog/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Challenge: nitwit</title>
-      <link>http://localhost:1313/AeroSol_blog/posts/nitwit/</link>
-      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
-      <author>abelsjohn50@gmail.com (AeroSol)</author>
-      <guid>http://localhost:1313/AeroSol_blog/posts/nitwit/</guid>
-      <description></description>
-      
-    </item>
+    <lastBuildDate>Sun, 26 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/AeroSol_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Cybermimic Defense 2025 Crypto - FMS</title>
@@ -28,7 +18,7 @@
       <author>abelsjohn50@gmail.com (AeroSol)</author>
       <guid>http://localhost:1313/AeroSol_blog/posts/fms/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/AeroSol_blog/posts/fms/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/AeroSol_blog/posts/fms/featured.jpeg" />
     </item>
     
     <item>
@@ -38,7 +28,7 @@
       <author>abelsjohn50@gmail.com (AeroSol)</author>
       <guid>http://localhost:1313/AeroSol_blog/posts/blueprint/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/AeroSol_blog/posts/blueprint/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/AeroSol_blog/posts/blueprint/featured.jpeg" />
     </item>
     
     <item>
@@ -58,7 +48,7 @@
       <author>abelsjohn50@gmail.com (AeroSol)</author>
       <guid>http://localhost:1313/AeroSol_blog/posts/cert/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/AeroSol_blog/posts/cert/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/AeroSol_blog/posts/cert/featured.jpeg" />
     </item>
     
     <item>
@@ -68,7 +58,7 @@
       <author>abelsjohn50@gmail.com (AeroSol)</author>
       <guid>http://localhost:1313/AeroSol_blog/posts/wildsigs/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/AeroSol_blog/posts/wildsigs/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/AeroSol_blog/posts/wildsigs/featured.jpeg" />
     </item>
     
   </channel>
