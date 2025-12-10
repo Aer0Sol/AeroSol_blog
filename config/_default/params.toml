@@ -5,7 +5,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-colorScheme = "fire"
+colorScheme = "gruv"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = false
 
@@ -23,8 +23,8 @@ disableImageOptimizationMD = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
-defaultBackgroundImage = "/imgs/silksong.png" # used as default for background images
-# defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
+defaultBackgroundImage = "/imgs/new-mecca-4k.png" # used as default for background images
+defaultFeaturedImage = "/imgs/silksong.png" # used as default for featured images in all articles
 # defaultSocialImage = "/android-chrome-512x512.png" # used as default for social media sharing (Open Graph and Twitter)
 hotlinkFeatureImage = false
 # imagePosition = "50% 50%"
@@ -54,10 +54,10 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showRecent = true
   showRecentItems = 5
   showMoreLink = true
-  showMoreLinkDest = "/posts/"
+  showMoreLinkDest = "/AeroSol_blog/posts/"
   cardView = true
   cardViewScreenWidth = false
-  layoutBackgroundBlur = false # only used when layout equals background
+  layoutBackgroundBlur = true # only used when layout equals background
   disableHeroImageFilter = false # only used when layout equals hero
 
 [article]
@@ -81,14 +81,14 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showHeadingAnchors = true
   showPagination = true
   invertPagination = false
-  showReadingTime = true
+  showReadingTime = false
   showTableOfContents = true
   # showRelatedContent = false
   # relatedContentLimit = 3
   showTaxonomies = false # use showTaxonomies OR showCategoryOnly, not both
   showCategoryOnly = false # use showTaxonomies OR showCategoryOnly, not both
   showAuthorsBadges = false
-  showWordCount = true
+  showWordCount = false
   # sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram", "line"]
   showZenMode = false
 

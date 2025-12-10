@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aero Blog</title>
+    <link>http://localhost:1313/AeroSol_blog/</link>
+    <description>Recent content on Aero Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>abelsjohn50@gmail.com (AeroSol)</managingEditor>
+    <webMaster>abelsjohn50@gmail.com (AeroSol)</webMaster>
+    <copyright>© 2025 AeroSol</copyright>
+    <lastBuildDate>Tue, 18 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/AeroSol_blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Challenge: nitwit</title>
+      <link>http://localhost:1313/AeroSol_blog/posts/nitwit/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <author>abelsjohn50@gmail.com (AeroSol)</author>
+      <guid>http://localhost:1313/AeroSol_blog/posts/nitwit/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cybermimic Defense 2025 Crypto - FMS</title>
+      <link>http://localhost:1313/AeroSol_blog/posts/fms/</link>
+      <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
+      <author>abelsjohn50@gmail.com (AeroSol)</author>
+      <guid>http://localhost:1313/AeroSol_blog/posts/fms/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/AeroSol_blog/posts/fms/featured.png" />
+    </item>
+    
+    <item>
+      <title>Defcamp 2025 Crypto - Blueprint</title>
+      <link>http://localhost:1313/AeroSol_blog/posts/blueprint/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <author>abelsjohn50@gmail.com (AeroSol)</author>
+      <guid>http://localhost:1313/AeroSol_blog/posts/blueprint/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/AeroSol_blog/posts/blueprint/featured.png" />
+    </item>
+    
+    <item>
+      <title>bi0sCTF 2025 Crypto ...Like PRNGS to Heaven</title>
+      <link>http://localhost:1313/AeroSol_blog/posts/likeprngstoheaven/</link>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+      <author>abelsjohn50@gmail.com (AeroSol)</author>
+      <guid>http://localhost:1313/AeroSol_blog/posts/likeprngstoheaven/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/AeroSol_blog/posts/likeprngstoheaven/featured.png" />
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/AeroSol_blog/about/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <author>abelsjohn50@gmail.com (AeroSol)</author>
+      <guid>http://localhost:1313/AeroSol_blog/about/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>LakeCTF 2024 Crypto - Cert</title>
+      <link>http://localhost:1313/AeroSol_blog/posts/cert/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <author>abelsjohn50@gmail.com (AeroSol)</author>
+      <guid>http://localhost:1313/AeroSol_blog/posts/cert/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/AeroSol_blog/posts/cert/featured.png" />
+    </item>
+    
+    <item>
+      <title>LakeCTF 2024 Crypto - Wild Signatures</title>
+      <link>http://localhost:1313/AeroSol_blog/posts/wildsigs/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <author>abelsjohn50@gmail.com (AeroSol)</author>
+      <guid>http://localhost:1313/AeroSol_blog/posts/wildsigs/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/AeroSol_blog/posts/wildsigs/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
