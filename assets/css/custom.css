@@ -1,0 +1,12 @@
+/* Force the content to use the full available width */
+.prose, .max-w-prose {
+    max-width: 100% !important;
+}
+
+/* Optional: If 100% is TOO wide, set a comfortable limit like 1200px */
+/*
+.page {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+*/
