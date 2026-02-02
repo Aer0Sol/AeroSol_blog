@@ -4,18 +4,24 @@
 
   <url>
     <loc>http://localhost:1313/AeroSol_blog/</loc>
-    <lastmod>2025-10-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/AeroSol_blog/posts/fms/</loc>
-    <lastmod>2025-10-26T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/AeroSol_blog/posts/noisy_channels/</loc>
+    <lastmod>2026-02-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/AeroSol_blog/posts/</loc>
+    <lastmod>2026-02-02T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/AeroSol_blog/posts/fms/</loc>
     <lastmod>2025-10-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
